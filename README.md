@@ -4,6 +4,8 @@
 ## Video Demo
 https://youtu.be/MCl2WkyoqWs
 
+Built together with Shafinul Haque, Jonathan D'Souza, and Matthew Fernandes.
+
 ## Inspiration
 Peripheral nerve compression syndromes such as carpal tunnel syndrome affect approximately 1 out of every 6 adults. They are commonly caused by repetitive stress and with the recent trend of working at home due to the pandemic it has become a mounting issue more individuals will need to address. There exist several different types of exercises to help prevent these syndromes, in fact studies show that 71.2% of patients who did not perform these exercises had to later undergo surgery due to their condition. It should also be noted that doing these exercises wrong could cause permanent injury to the hand as well. 
 
